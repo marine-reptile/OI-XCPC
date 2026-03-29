@@ -1,0 +1,1 @@
+{"name":"Local: P11186","url":"d:\\Jucason\\OI-XCPC-Public\\Code\\MX26SPR\\P11186.cpp","tests":[{"id":1774151734404,"input":"20 5\nx>12?x<15?4:10:x<12?14:7\n15\n12\n14\n7\n1000000","output":"10\n7\n4\n14\n10\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Jucason\\OI-XCPC-Public\\Code\\MX26SPR\\P11186.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: P11207","url":"d:\\Jucason\\OI-XCPC-Public\\Code\\MX26SPR\\P11207.cpp","tests":[{"id":1774081803449,"input":"3\n2\nPW\nVP\n5\nPPWWP\nPWVWV\n6\nWVPPWW\nVVPVWP","output":"0\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Jucason\\OI-XCPC-Public\\Code\\MX26SPR\\P11207.cpp","group":"local","local":true}
